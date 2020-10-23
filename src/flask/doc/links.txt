@@ -1,0 +1,5 @@
+PANDAS
+https://sarahleejane.github.io/learning/python/2015/08/09/simple-tables-in-webapps-using-flask-and-pandas-with-python.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_html.html
+https://pythonspot.com/sqlite-database-with-pandas/
+https://python-catalin.blogspot.com/2019/07/python-373-use-python-with-mysql-and.html
