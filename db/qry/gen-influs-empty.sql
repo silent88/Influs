@@ -1,0 +1,10 @@
+DELETE FROM contracts;
+DELETE FROM influs;
+DELETE FROM influs_propagations_count;
+DELETE FROM influs_stories_count;
+DELETE FROM influs_vector;
+DELETE FROM webproperties;
+DELETE FROM webproperties_contracts_count;
+DELETE FROM webproperties_contracts_exposure;
+DELETE FROM webproperties_vector;
+VACUUM;
